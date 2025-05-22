@@ -7,7 +7,7 @@ A full-stack web application to manage your personal collection of **movies**, *
 ## 🌐 Live Demo
 
 Access the live frontend here:  
-👉 [https://personal-media-collection-tracker.vercel.app/login](https://personal-media-collection-tracker.vercel.app/login)
+👉 [https://personal-media-collection-tracker.vercel.app/login](https://personal-media-collection-tracker.vercel.app)
 
 ---
 
