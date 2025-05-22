@@ -10,6 +10,7 @@ export default function Navbar() {
         <Link to="/login" className="text-blue-500">Login</Link>
         <Link to="/signup" className="text-blue-500">Sign Up</Link>
         <Link to="/media" className="text-blue-500">My Collection</Link>
+        <Link to="/recommend" className="hover:text-blue-500">AI Recommend</Link>
       </div>
     </nav>
   );
