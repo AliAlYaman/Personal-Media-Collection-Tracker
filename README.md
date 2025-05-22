@@ -14,25 +14,28 @@ Access the live frontend here:
 ## 🚀 Features
 
 ### 🔐 Authentication
+
 - Laravel Fortify-powered login and registration
 - Secure CSRF protection using Laravel Sanctum
 
 ### 📦 Media Management
+
 - Add, edit, and delete media items
 - Supports movies, music, and games
 - Stores title, creator, and release date
 
 ### 🤖 AI Integration
+
 - Smart recommender system powered by OpenAI
 - Suggests new media based on your favorites
 
 ### ⚙️ Tech Stack
 
-| Frontend      | Backend       | AI           |
-|---------------|---------------|--------------|
-| React + Vite  | Laravel 10     | OpenAI GPT-4 |
-| Tailwind CSS  | Sanctum + Fortify |            |
-| Axios         | Sqlite          |           |
+| Frontend     | Backend           | AI           |
+| ------------ | ----------------- | ------------ |
+| React + Vite | Laravel 10        | OpenAI GPT-4 |
+| Tailwind CSS | Sanctum + Fortify |              |
+| Axios        | Sqlite            |              |
 
 ---
 
@@ -61,3 +64,4 @@ php artisan migrate
 
 # Serve
 php artisan serve
+```
